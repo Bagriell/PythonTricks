@@ -1,1 +1,1 @@
-# PythonTricks
+# PythonTricks Cheatsheet
